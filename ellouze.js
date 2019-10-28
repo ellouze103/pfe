@@ -1,2 +1,2 @@
-alert("je suis un etudiant")
-alert("Projet Fin d'etude")
+alert("Administrateur Réseaux et Syteme")
+alert("Proxym-IT")
